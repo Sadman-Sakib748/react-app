@@ -19,7 +19,7 @@ A modern React application for submitting and viewing reviews about online shopp
 1. Clone the repository
 2. Run \`npm install\` to install dependencies
 3. Run \`npm run dev\` to start the development server
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+4. Open [http://localhost:5173/](http://localhost:5173/) in your browser
 
 ## Technical Stack
 
